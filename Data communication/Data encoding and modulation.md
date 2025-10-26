@@ -1,1 +1,1 @@
-A message 
+A message signal generated from an information source is callled a baseband signal. the original information from sourcce may be analog or digital. Analog signal varies continously with time and amplitude. baseband signal has frequency componenet close to 0 hz in case of baseband transmission the information signal is snet as ir is without modulation
