@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "d407ab7dc8d37809",
+    "type": "split",
+    "children": [
+      {
+        "id": "349ed6e763bce1a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a6fba57fdef110d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "this is my first note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "this is my first note"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "52a1546f4566ceaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b33db27c313954d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25a9eb2abe3264c8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b354c2b90a0fa7ed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "259ec3aaa68eb614",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b7da58b777a801b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "5cfa7dd91756d5de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "519011135801e310",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "this is my first note.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for this is my first note"
+            }
+          },
+          {
+            "id": "2586217eb843202e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "this is my first note.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from this is my first note"
+            }
+          },
+          {
+            "id": "81c3bf86115cc0d9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "46adedd2f24c49b4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "this is my first note.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of this is my first note"
+            }
+          },
+          {
+            "id": "0ea3a8b0e4ce77a2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "5a6fba57fdef110d",
+  "lastOpenFiles": [
+    "this is my first note.md"
+  ]
+}
