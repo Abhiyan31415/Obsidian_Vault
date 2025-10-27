@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "this is my first note.md",
+                "file": "jkj.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "this is my first note"
+              "title": "jkj"
             }
           }
         ]
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "this is my first note.md",
+            "file": "jkj.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "this is my first note.md",
+            "file": "jkj.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -131,7 +131,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "this is my first note.md",
+            "file": "jkj.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -166,5 +166,7 @@
     }
   },
   "active": "56c2b68933397059",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "this is my first note.md"
+  ]
 }
