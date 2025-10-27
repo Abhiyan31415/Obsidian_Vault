@@ -6,4 +6,4 @@ we can divide various memory system based on various fields or stuffs right so l
 2. Direct access
    in this method individual blocks of records have unique address based on location. **Direct (or random) access** means that each data element (or block of records) can be reached directly by using its unique address or index, without having to read any other data first. Because the location is known in advance, the access time is essentially constant (‑ O(1) ‑) regardless of where the element resides in memory.
 3. Random Access
-   the time to access a giv
+   the time to access a given location is independent of 
