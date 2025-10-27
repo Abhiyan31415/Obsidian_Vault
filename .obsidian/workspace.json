@@ -11,10 +11,14 @@
             "id": "a03bad1ad24d8c2c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CAO/Memory system.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Memory system"
             }
           }
         ]
@@ -188,7 +192,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "0ea3a8b0e4ce77a2",
+  "active": "a03bad1ad24d8c2c",
   "lastOpenFiles": [
     "this is my first note.md",
     "CAO/Memory system.md",
