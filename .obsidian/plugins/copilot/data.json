@@ -2,7 +2,7 @@
   "userId": "d03bba64-dea2-4af5-a9d1-a8981998baf6",
   "isPlusUser": false,
   "plusLicenseKey": "",
-  "openAIApiKey": "",
+  "openAIApiKey": "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",
   "openAIOrgId": "",
   "huggingfaceApiKey": "",
   "cohereApiKey": "",
@@ -269,6 +269,21 @@
     {
       "name": "gemini-2.0-flash",
       "provider": "google",
+      "enabled": true
+    },
+    {
+      "name": "gpt-3.5-turbo",
+      "provider": "openai",
+      "enabled": true
+    },
+    {
+      "name": "meta-llama/llama-3.1-405b",
+      "provider": "openrouterai",
+      "enabled": true
+    },
+    {
+      "name": "openai/gpt-oss-120b",
+      "provider": "groq",
       "enabled": true
     }
   ],

@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "349ed6e763bce1a7",
+        "id": "60a7c052ce666244",
         "type": "tabs",
         "children": [
           {
-            "id": "5a6fba57fdef110d",
+            "id": "a03bad1ad24d8c2c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "61300eb269539f8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CAO/Memory system.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Memory system"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,7 +168,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -207,12 +188,12 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "4cceea74b3bbadad",
+  "active": "0ea3a8b0e4ce77a2",
   "lastOpenFiles": [
-    "copilot/copilot-conversations/In_this_access_it_must_start_with_beginning_and@20251027_173902.md",
-    "copilot/copilot-conversations",
     "this is my first note.md",
     "CAO/Memory system.md",
+    "copilot/copilot-conversations/In_this_access_it_must_start_with_beginning_and@20251027_173902.md",
+    "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "copilot/copilot-custom-prompts/Remove URLs.md",
