@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data communication/Data encoding and modulation.md",
+                "file": "CAO/Memory system.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data encoding and modulation"
+              "title": "Memory system"
             }
           }
         ]
@@ -172,11 +172,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 392.5
+    "width": 399.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,8 +192,9 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "0ea3a8b0e4ce77a2",
+  "active": "4cceea74b3bbadad",
   "lastOpenFiles": [
+    "Data communication/Data encoding and modulation.md",
     "CAO/Memory system.md",
     "this is my first note.md",
     "copilot/copilot-conversations/In_this_access_it_must_start_with_beginning_and@20251027_173902.md",
@@ -214,7 +215,6 @@
     "copilot/copilot-custom-prompts",
     "copilot",
     "CAO",
-    "Data communication/Data encoding and modulation.md",
     "Data communication",
     "jkj.md",
     "README.md"
