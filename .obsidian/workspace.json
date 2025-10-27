@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CAO/Memory system.md",
+                "file": "Data communication/Data encoding and modulation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Memory system"
+              "title": "Data encoding and modulation"
             }
           }
         ]
@@ -192,10 +192,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "a03bad1ad24d8c2c",
+  "active": "0ea3a8b0e4ce77a2",
   "lastOpenFiles": [
-    "this is my first note.md",
     "CAO/Memory system.md",
+    "this is my first note.md",
     "copilot/copilot-conversations/In_this_access_it_must_start_with_beginning_and@20251027_173902.md",
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
