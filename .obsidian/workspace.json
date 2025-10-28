@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Memory system"
             }
+          },
+          {
+            "id": "6967c7522a5a58b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CAO/Memory system.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Memory system"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,11 +187,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 399.5
+    "width": 216.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,10 +207,12 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "4cceea74b3bbadad",
+  "active": "6967c7522a5a58b3",
   "lastOpenFiles": [
-    "Data communication/Data encoding and modulation.md",
+    "CAO/heirarchy.md",
     "CAO/Memory system.md",
+    "Excalidraw",
+    "Data communication/Data encoding and modulation.md",
     "this is my first note.md",
     "copilot/copilot-conversations/In_this_access_it_must_start_with_beginning_and@20251027_173902.md",
     "copilot/copilot-conversations",
