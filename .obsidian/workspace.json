@@ -205,7 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 589.5
+    "width": 256.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,8 +221,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "4cceea74b3bbadad",
+  "active": "c975da857517d3db",
   "lastOpenFiles": [
+    "Pasted image 20251028172730.png",
+    "Pasted image 20251028171525.png",
     "Pasted image 20251028132626.png",
     "Untitled.md",
     "CAO/io organization.md",
