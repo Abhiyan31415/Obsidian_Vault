@@ -201,11 +201,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 216.5
+    "width": 589.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,7 +221,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "c975da857517d3db",
+  "active": "4cceea74b3bbadad",
   "lastOpenFiles": [
     "Pasted image 20251028132626.png",
     "Untitled.md",
